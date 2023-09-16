@@ -8,7 +8,7 @@
   </h1>
 
   <div class="credit">
-    * Images loaded randomly from Picsum.photos
+    * Images of Silus and Kitterson
   </div>
 
   <div class="book">
@@ -66,12 +66,13 @@ $speed: 5s;
 $borderColor: #555;
 
 $images:
-    url('https://picsum.photos/420/300?random=1'),
-    url('https://picsum.photos/420/300?random=2'),
-    url('https://picsum.photos/420/300?random=3'),
-    url('https://picsum.photos/420/300?random=4'),
-    url('https://picsum.photos/420/300?random=5'), 
-    url('https://picsum.photos/420/300?random=1');
+    url('images/K-01-450x600.png'),
+    url('images/K-05-450x600.jpg'),
+    url('images/K-10-450x600.jpg'),
+    url('images/K-11-450x600.jpg'),
+    url('images/K-12-450x600.jpg'),
+    url('images/K-13-450x600.jpg');
+<!--    url('https://picsum.photos/420/300?random=1'); -->
 
 // Preload to images
 .imgLoader {
